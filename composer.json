@@ -1,5 +1,5 @@
 {
-    "name": "datlechin/filament-menu-builder",
+    "name": "GamesiProjects/filament-menu-builder-compat",
     "description": "Create and manage menus and menu items",
     "keywords": [
         "datlechin",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "filament/filament": "^3.0",
+        "filament/filament": "^2.0",
         "spatie/laravel-package-tools": "^1.15.0"
     },
     "require-dev": {
